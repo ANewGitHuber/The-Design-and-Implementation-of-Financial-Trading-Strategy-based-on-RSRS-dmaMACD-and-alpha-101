@@ -70,4 +70,4 @@ To skip the initialization part, you can also directly run the code in the "Test
 University of Liverpool - 
 21st March, 2023
 
-All rights to the source codes are reserved.
+@John Chen, Olivia, Zixuan, Timber, Weiyi. All rights to the source codes are reserved.
